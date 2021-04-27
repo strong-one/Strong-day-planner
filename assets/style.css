@@ -89,9 +89,11 @@ ul div {
   display: flex;
   justify-content: space-between;
   margin-top: 50px;
-  border: 2px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top-right-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
 li {
