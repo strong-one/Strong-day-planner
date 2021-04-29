@@ -47,6 +47,7 @@ $(document).ready(function () {
       $(this).addClass("past");
     }
   }
+  checkTime();
 
   // event handler
 
