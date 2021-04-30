@@ -6,4 +6,4 @@ Credit: I was helped greatly on this assignment by my instructor.
 
 
 
-05-third-party-apis-homework-demo.gif![image](https://user-images.githubusercontent.com/79662753/116635827-02242100-a91d-11eb-95e3-4caabf7fdbee.png)
+(https://user-images.githubusercontent.com/79662753/116635827-02242100-a91d-11eb-95e3-4caabf7fdbee.png)
