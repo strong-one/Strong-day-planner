@@ -4,4 +4,3 @@ Day planner assignment HTML was created using bootstrap and time log using momen
 
 Credit: I was helped greatly on this assignment by my instructor.
 
-(https://user-images.githubusercontent.com/79662753/116635827-02242100-a91d-11eb-95e3-4caabf7fdbee.png)
