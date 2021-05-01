@@ -36,16 +36,16 @@ $(document).ready(function () {
         $(this).addClass("past");
       } else if (blockHour === currentHour) {
         $(this).addClass("present");
-      } else {
+      } else if (blockHour > currentHour) {
         $(this).addClass("future");
       }
     });
 
     // check current hour against the blockHour
     // if/else
-    if (blockHour < currentHour) {
-      $(this).addClass("past");
-    }
+    // if (blockHour < currentHour) {
+    //   $(this).addClass("past");
+    // }
   }
   checkTime();
 
