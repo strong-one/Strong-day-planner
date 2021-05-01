@@ -4,4 +4,4 @@ Day planner assignment HTML was created using bootstrap and time log using momen
 
 Credit: I was helped greatly on this assignment by my instructor.
 
-<img src="images/05-third-party-apis-homework-demo.gif" alt="day planner gif">
+![Day planner homework](./Image/05-third-party-apis-homework-demo.gif)
