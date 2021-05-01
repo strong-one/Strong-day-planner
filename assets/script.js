@@ -43,9 +43,6 @@ $(document).ready(function () {
 
     // check current hour against the blockHour
     // if/else
-    // if (blockHour < currentHour) {
-    //   $(this).addClass("past");
-    // }
   }
   checkTime();
 
