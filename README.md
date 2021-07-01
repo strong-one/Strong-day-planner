@@ -2,7 +2,7 @@
 
 ![Day planner homework](./Image/05-third-party-apis-homework-demo.gif)
 
-[Deployed Site](![Day planner homework](./Image/05-third-party-apis-homework-demo.gif)
+[Deployed Site](https://strong-one.github.io/Strong-day-planner/)
 
 )
 
